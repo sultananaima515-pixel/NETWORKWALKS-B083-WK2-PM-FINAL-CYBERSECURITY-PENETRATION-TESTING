@@ -1,7 +1,7 @@
 
-##Week 2 – Cybersecurity Penetration Testing
+##  Week 2 – Cybersecurity Penetration Testing
 
-NetworkWalks Cybersecurity Internship
+ NetworkWalks Cybersecurity Internship
 ## Full Report
 
 [View Week 2 Penetration Testing Report (PDF)](https://github.com/sultananaima515-pixel/NETWORKWALKS-B083-WK2-PM-FINAL-CYBERSECURITY-PENETRATION-TESTING/blob/77a0e4bfa1928fb1545393e9bdf63ebfee7591db/Report/Week2-%20Report.pdf)
