@@ -2,7 +2,9 @@
 
 ### Full Report
 
-- [Week 2 Penetration Testing Report (PDF)](Report/Week2-Report.pdf)
+-## Full Report
+
+[View Week 2 Penetration Testing Report (PDF)](./Week2%20Report.pdf)
 
 ### Practical Modules
 
