@@ -1,4 +1,48 @@
-## Repository Contents
+Week 2 – Cybersecurity Penetration Testing
+
+NetworkWalks Cybersecurity Internship
+
+
+
+
+
+Internship Information
+
+Information
+
+Details
+
+Intern Name
+
+Naima Sultana
+
+University
+
+Noakhali Science and Technology University (NSTU)
+
+Department
+
+Software Engineering
+
+Internship Domain
+
+Cybersecurity
+
+Organization
+
+NetworkWalks
+
+Batch
+
+B084-NetworkWalks
+
+Week
+
+Week 02
+
+Report Date
+
+12 November 2026
 
 ## Full Report
 
