@@ -23,3 +23,15 @@
 - [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
 - [Wafw00f](https://github.com/EnableSecurity/wafw00f)
 - [DNSRecon](https://github.com/darkoperator/dnsrecon)
+
+  ##  Author
+
+Naima Sultana
+
+Cybersecurity Intern – NetworkWalks
+
+B.Sc. in Software Engineering
+
+Noakhali Science and Technology University (NSTU)
+
+Batch: B084-NetworkWalks
