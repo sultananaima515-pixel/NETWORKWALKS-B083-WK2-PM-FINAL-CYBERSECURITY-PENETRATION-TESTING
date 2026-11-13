@@ -7,30 +7,10 @@
 
 | Module | Topic | Evidence |
 |---|---|---|
-| Module 1 | Footprinting & Reconnaissance Using Kali Tools | [View Screenshots](./Module-1-Kali-Tools/screenshots/) |
-| Module 2 | Google Hacking Database (GHDB) | [View Screenshots](./Module-2-GHDB/screenshots/) |
-| Module 3 | Email and Subdomain Enumeration Using theHarvester | [View Screenshots](./Module-3-theHarvester/screenshots/) |
-| Module 4 | Network Scanning Using Zenmap | [View Screenshots](./Module-4-Zenmap/screenshots/) |
-
-## Module-wise Evidence
-
-### Module 1 – Kali Tools
-
-[WHOIS Screenshot](./1.screenshot%28whois%29.png)
-
-[WhatWeb Screenshot](./4.Screenshot%20%28whatweb%29.png)
-
-### Module 2 – GHDB
-
-[GHDB Screenshot](./9.screenshotGHDB.png)
-
-### Module 3 – theHarvester
-
-[Baidu Results](./13.Screenshot%28harvester%20using%20baidu%29.png)
-
-### Module 4 – Zenmap
-
-[Zenmap Ping Scan](./18.Screenshot%20ping%20scan.png)
+| Module 1 | Footprinting & Reconnaissance Using Kali Tools | [View Screenshots](https://github.com/sultananaima515-pixel/NETWORKWALKS-B083-WK2-PM-FINAL-CYBERSECURITY-PENETRATION-TESTING/tree/45c90e7f2a342d3fbea5c245d714a5b1cace3cac/Module-1-kali%20tools) |
+| Module 2 | Google Hacking Database (GHDB) | [View Screenshots](https://github.com/sultananaima515-pixel/NETWORKWALKS-B083-WK2-PM-FINAL-CYBERSECURITY-PENETRATION-TESTING/tree/45c90e7f2a342d3fbea5c245d714a5b1cace3cac/Module-2-GHDB) |
+| Module 4 | Email and Subdomain Enumeration Using theHarvester | [View Screenshots](https://github.com/sultananaima515-pixel/NETWORKWALKS-B083-WK2-PM-FINAL-CYBERSECURITY-PENETRATION-TESTING/tree/45c90e7f2a342d3fbea5c245d714a5b1cace3cac/Module-4-The%20harvester) |
+| Module 5 | Network Scanning Using Zenmap | [View Screenshots](https://github.com/sultananaima515-pixel/NETWORKWALKS-B083-WK2-PM-FINAL-CYBERSECURITY-PENETRATION-TESTING/tree/45c90e7f2a342d3fbea5c245d714a5b1cace3cac/Module-5-zenmap) |
 
 ### References
 
